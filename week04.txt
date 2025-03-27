@@ -1,6 +1,10 @@
 4주차
 1교시
-conflict
+conflict 해결방법
+
+git 명령어
+log --oneline
+
 
 
 2교시
@@ -8,3 +12,6 @@ conflict
 
 
 3교시
+
+
+

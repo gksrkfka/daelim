@@ -10,10 +10,19 @@ remote -v
 .gitignore 이해 
 
 2교시
+<<<<<<< HEAD
 소수 판정 프로그램 컴버션
+=======
+소수 판정 프로그램 컨버전
+>>>>>>> 6558e18dab2b38a413a04a2d5c61ad17579593f4
 
 3교시
 git 명령어
 clone "가져올 원격리포지토리 주소"
+<<<<<<< HEAD
 clone "가져올 원격리포지토리 주소".
 remote remove origin
+=======
+clone "가져올 원격리포지토리 주소" .
+remote remove origin
+>>>>>>> 6558e18dab2b38a413a04a2d5c61ad17579593f4
